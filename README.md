@@ -1,2 +1,5 @@
 # Basic_3D_OpenGL_Game
-Basic 3D OpenGL Game
+
+Author: 
+
+![](https://github.com/game-works/Basic_3D_OpenGL_Game/blob/master/screenshot.PNG)
